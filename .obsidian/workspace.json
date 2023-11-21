@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9bcbeef3a121338",
+        "id": "36ac9efed4b537b6",
         "type": "tabs",
         "children": [
           {
-            "id": "26efdf20f89d6ecc",
+            "id": "50969e7f312ff148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-21.md",
+                "file": "A Sample Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-21.md",
+                "file": "A Sample Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-21.md",
+                "file": "A Sample Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-21.md"
+                "file": "A Sample Project.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26efdf20f89d6ecc",
+  "active": "50969e7f312ff148",
   "lastOpenFiles": [
-    "A Sample page.md",
-    "2023-11-21.md",
+    "mnist.md",
     "A Sample Project.md",
-    "ml_code/ml_workshop_5/reference/legal/jquery.md",
+    "mult.jpg",
     "latex.md",
+    "2023-11-21.md",
+    "ml_code/ml_workshop_4/reference/legal/jqueryUI.md",
+    "myonn.pdf",
+    "A Sample page.md",
+    "ml_code/ml_workshop_5/reference/legal/jquery.md",
     "ws.jpg",
     "ws.png",
     "threelayer.jpg",
@@ -162,8 +166,6 @@
     "r1.png",
     "preceptron_with_bias.jpg",
     "perceptron.png",
-    "osig.png",
-    "myonn.pdf",
     "mnist/readme.md",
     "mnist/mnist_train_100.csv",
     "mnist/mnist_test_10.csv",
@@ -175,7 +177,6 @@
     "ml_code/ml_workshop_5/reference/script-dir/jquery-ui.min.css",
     "ml_code/ml_workshop_5/reference/script-dir/jquery-3.5.1.min.js",
     "ml_code/ml_workshop_5/reference/legal/jqueryUI.md",
-    "ml_code/ml_workshop_4/reference/legal/jqueryUI.md",
     "ml_code/ml_workshop_4/reference/legal/jquery.md",
     "A Sample project/ml_code/ml_workshop_5/reference/legal/jqueryUI.md",
     "A Sample project/ml_code/ml_workshop_5/reference/legal/jquery.md",
