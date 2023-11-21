@@ -449,6 +449,8 @@ TO DO in 3b:
 
 ### [REFERENCE MNIST HAND-WRITTEN NUMERALS TEST AND TRAINING INPUT DATASETS](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)
 
+[[Other MNIST references]]
+
 
 
 
