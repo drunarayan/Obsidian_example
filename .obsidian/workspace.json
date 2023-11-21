@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2023-11-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2023-11-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2023-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2023-11-21.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "26efdf20f89d6ecc",
   "lastOpenFiles": [
+    "A Sample page.md",
+    "2023-11-21.md",
+    "A Sample Project.md",
+    "ml_code/ml_workshop_5/reference/legal/jquery.md",
+    "latex.md",
     "ws.jpg",
     "ws.png",
     "threelayer.jpg",
@@ -158,7 +163,6 @@
     "preceptron_with_bias.jpg",
     "perceptron.png",
     "osig.png",
-    "oosig.jpg",
     "myonn.pdf",
     "mnist/readme.md",
     "mnist/mnist_train_100.csv",
@@ -171,10 +175,8 @@
     "ml_code/ml_workshop_5/reference/script-dir/jquery-ui.min.css",
     "ml_code/ml_workshop_5/reference/script-dir/jquery-3.5.1.min.js",
     "ml_code/ml_workshop_5/reference/legal/jqueryUI.md",
-    "ml_code/ml_workshop_5/reference/legal/jquery.md",
     "ml_code/ml_workshop_4/reference/legal/jqueryUI.md",
     "ml_code/ml_workshop_4/reference/legal/jquery.md",
-    "latex.md",
     "A Sample project/ml_code/ml_workshop_5/reference/legal/jqueryUI.md",
     "A Sample project/ml_code/ml_workshop_5/reference/legal/jquery.md",
     "A Sample project/ml_code/ml_workshop_4/reference/legal/jqueryUI.md",
@@ -182,10 +184,7 @@
     "A Sample project/readme.md",
     "A Sample project/latex.md",
     "A Sample project/mnist/readme.md",
-    "A Sample page.md",
-    "2023-11-21.md",
     "singleneuron.png.md",
-    "README.md",
     "myonn.pdf.md"
   ]
 }
