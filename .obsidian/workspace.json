@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "39c7d595790b716e",
+        "id": "c9bcbeef3a121338",
         "type": "tabs",
         "children": [
           {
-            "id": "7dd57ae75ae5dc13",
+            "id": "26efdf20f89d6ecc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,6 +146,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dd57ae75ae5dc13",
-  "lastOpenFiles": []
+  "active": "f9de1380413d1d3b",
+  "lastOpenFiles": [
+    "A Sample project/singleneuron.png",
+    "A Sample project/gd19.png",
+    "A Sample project/gd9.png",
+    "A Sample project/gd19.jpg",
+    "A Sample project/gd8.png",
+    "A Sample project/gd18.png",
+    "A Sample project/nodes.jpg",
+    "A Sample project/ws.jpg",
+    "A Sample project/ml_code/ml_classifier_1/ml_classifier_1.pde",
+    "A Sample project/ml_code/ml_classifier_1/Point.pde",
+    "A Sample project/ml_code/ml_classifier_1/Perceptron.pde",
+    "A Sample project/ml_code/ml_classifier_1",
+    "A Sample project/ml_code/ml_classifier_3/ml_classifier_3.pde",
+    "A Sample project/ml_code/ml_classifier_3/Point.pde",
+    "A Sample project/ml_code/ml_classifier_3/Perceptron.pde",
+    "A Sample project/ml_code/ml_classifier_3",
+    "A Sample project/ml_code/ml_workshop_5/reference/search.js",
+    "A Sample project/ml_code/ml_workshop_5/reference/type-search-index.js",
+    "A Sample project/ml_code/ml_workshop_5/reference/legal/jqueryUI.md",
+    "A Sample project/ml_code/ml_workshop_5/reference/legal/jquery.md",
+    "A Sample project/ml_code/ml_workshop_5/reference/script-dir/images/ui-icons_cd0a0a_256x240.png",
+    "A Sample project/ml_code/ml_workshop_5/reference/script-dir/images/ui-icons_888888_256x240.png",
+    "A Sample project/ml_code/ml_workshop_5/reference/script-dir/images/ui-icons_2e83ff_256x240.png",
+    "A Sample project/ml_code/ml_workshop_4/reference/legal/jqueryUI.md",
+    "A Sample project/ml_code/ml_workshop_4/reference/legal/jquery.md",
+    "A Sample project/readme.md",
+    "A Sample project/latex.md",
+    "A Sample project/mnist/readme.md",
+    "A Sample page.md",
+    "2023-11-21.md",
+    "singleneuron.png.md",
+    "README.md",
+    "myonn.pdf.md"
+  ]
 }
